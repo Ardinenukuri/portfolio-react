@@ -30,3 +30,8 @@ A professional personal portfolio website built with React, showcasing my skills
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/portfolio-react.git
+
+
+## Live
+
+- [Live Demo](https://68434f0d17b3df3ceea8e7ad--profound-alfajores-c78fe4.netlify.app/)
