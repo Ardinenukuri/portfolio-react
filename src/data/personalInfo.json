@@ -1,11 +1,11 @@
 {
-  "name": "Your Name",
-  "title": "Frontend Developer",
-  "tagline": "Building beautiful, responsive web experiences",
+  "name": "Ardine Martine Nukuri",
+  "title": "FullStack Developer",
+  "tagline": "Building scalable web applications with JavaScript, Python, and React",
   "about": {
-    "intro": "I'm a passionate developer with expertise in React and modern JavaScript.",
-    "background": "With a background in computer science and design, I create applications that are both functional and visually appealing.",
-    "unique": "What sets me apart is my attention to detail and commitment to writing clean, maintainable code."
+    "intro": "Software Engineering graduate specializing in Full Stack Development with expertise in JavaScript, Python, React, and Django.",
+    "background": "With hands-on experience in backend optimization and full-stack development, I create efficient, user-friendly applications that solve real-world problems.",
+    "unique": "What sets me apart is my combination of technical skills and leadership experience, having participated in multiple regional leadership programs and technical competitions."
   },
   "image": "Martine.jpg"
 }

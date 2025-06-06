@@ -1,16 +1,62 @@
 {
   "skills": [
     {
-      "category": "Frontend",
-      "items": ["React", "JavaScript", "HTML5", "CSS3", "Responsive Design"]
+      "category": "Frontend Development",
+      "items": [
+        "React",
+        "JavaScript (ES6+)",
+        "TypeScript",
+        "HTML5",
+        "CSS3",
+        "Bootstrap",
+        "jQuery",
+        "Responsive Design",
+        "Chart.js",
+        "Single Page Applications"
+      ]
     },
     {
-      "category": "Backend",
-      "items": ["Node.js", "Express", "MongoDB"]
+      "category": "Backend Development",
+      "items": [
+        "Python",
+        "Django",
+        "Node.js",
+        "Express",
+        "Nest.js",
+        "API Development",
+        "Database Management"
+      ]
     },
     {
-      "category": "Tools",
-      "items": ["Git", "VS Code", "Figma", "Webpack"]
+      "category": "Tools & Technologies",
+      "items": [
+        "Git & GitHub",
+        "VS Code",
+        "Webpack",
+        "Google Translate API",
+        "Gemini AI Integration",
+        "Postman"
+      ]
+    },
+    {
+      "category": "Languages",
+      "items": [
+        "French (Fluent)",
+        "English (Fluent)",
+        "Kirundi (Fluent)",
+        "Kinyarwanda (Fluent)"
+      ]
+    },
+    {
+      "category": "Soft Skills",
+      "items": [
+        "Leadership",
+        "Public Speaking",
+        "Team Collaboration",
+        "Problem Solving",
+        "Mentorship",
+        "Cross-cultural Communication"
+      ]
     }
   ]
 }

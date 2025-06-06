@@ -36,7 +36,6 @@ const Contact = () => {
     const errors = validateForm();
     
     if (Object.keys(errors).length === 0) {
-      // In a real app, you would send the form data to a server here
       console.log('Form submitted:', formData);
       setIsSubmitted(true);
       setFormData({ name: '', email: '', message: '' });

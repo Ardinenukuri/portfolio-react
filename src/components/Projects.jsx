@@ -1,12 +1,10 @@
 import React, { useState } from 'react';
 import projectsData from '../data/projects.json';
 import '../assets/styles/Projects.css';
-import MartineImage from '../assets/images/Martine.jpg';
 
 const Projects = () => {
   const [activeFilter, setActiveFilter] = useState('all');
 
-  // Get all unique technologies for filtering
   const allTechnologies = new Set();
   projectsData.projects.forEach(project => {
     project.technologies.forEach(tech => allTechnologies.add(tech));
@@ -45,7 +43,7 @@ const Projects = () => {
           {filteredProjects.map((project) => (
             <div key={project.id} className="project-card">
               <div className="project-image">
-                <img src={MartineImage} alt={project.title} />
+                <img src={project.image} alt={project.title} />
               </div>
               <div className="project-content">
                 <h3 className="project-title">{project.title}</h3>

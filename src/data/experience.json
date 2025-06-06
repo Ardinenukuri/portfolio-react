@@ -2,18 +2,18 @@
   "work": [
     {
       "id": 1,
-      "role": "Frontend Developer",
-      "company": "Tech Solutions Inc.",
-      "period": "2022 - Present",
-      "description": "Developed responsive web applications using React and Redux."
+      "role": "Backend Developer Intern",
+      "company": "Magis Digital Solutions",
+      "period": "October 2023 -     December 2023",
+      "description": "Operated backend systems with Python and Django, improving workflows. Optimized database queries and implemented scalable API endpoints, aiding in timely project completion."
     }
   ],
   "education": [
     {
       "id": 1,
-      "degree": "BSc Computer Science",
-      "institution": "University of Technology",
-      "period": "2018 - 2022"
+      "degree": "Bachelor of Software Engineering",
+      "institution": "African LeaderShip University",
+      "period": "2022 - 2025"
     }
   ]
 }

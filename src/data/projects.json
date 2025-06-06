@@ -2,21 +2,21 @@
   "projects": [
     {
       "id": 1,
-      "title": "E-commerce Platform",
-      "description": "A full-featured online store with cart functionality and payment integration.",
-      "technologies": ["React", "Node.js", "MongoDB", "Stripe API"],
-      "liveUrl": "https://example-ecommerce.com",
-      "githubUrl": "https://github.com/username/ecommerce",
-      "image": "/images/Martine.jpg"
+      "title": "Hustle Platform",
+      "description": "Hustle Platform is an online learning and mentorship platform that provides users with structured courses, mentorship programs, job opportunities, and a community forum. The platform enables users to enroll in courses, complete quizzes, track progress, earn certificates, and connect with mentors for guidance.",
+      "technologies": ["Python", "Cython", "C", "JavaScript", "JavaScript", "CSS", "HTML"],
+      "liveUrl": "https://huslte-platform-mjln.onrender.com/",
+      "githubUrl": "https://github.com/Ardinenukuri/Huslte-platform/",
+      "image": "../src/assets/images/logo.webp"
     },
     {
       "id": 2,
-      "title": "Task Management App",
-      "description": "A productivity application for organizing daily tasks with drag-and-drop functionality.",
-      "technologies": ["React", "Firebase", "Material UI"],
-      "liveUrl": "https://example-tasks.com",
-      "githubUrl": "https://github.com/username/task-app",
-      "image": "/images/Martine.jpg"
+      "title": "Personal Budget Manager",
+      "description": "A simple React-based application that allows users to track their expenses and manage their budgets. Users can add, view, and visualize their expenses by category and set budget limits for each category. The app persists data using local storage, ensuring that expenses and budgets are retained even after closing the browser.",
+      "technologies": ["TypeScript", "JavaScript", "HTML", "CSS"],
+      "liveUrl": "https://melodious-frangipane-f03bf4.netlify.app/",
+      "githubUrl": "https://github.com/Ardinenukuri/personal-bugjet-managerapp",
+      "image": "../src/assets/images/budget-manager.png"
     }
   ]
 }
