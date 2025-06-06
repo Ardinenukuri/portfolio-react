@@ -1,0 +1,16 @@
+{
+  "skills": [
+    {
+      "category": "Frontend",
+      "items": ["React", "JavaScript", "HTML5", "CSS3", "Responsive Design"]
+    },
+    {
+      "category": "Backend",
+      "items": ["Node.js", "Express", "MongoDB"]
+    },
+    {
+      "category": "Tools",
+      "items": ["Git", "VS Code", "Figma", "Webpack"]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "work": [
+    {
+      "id": 1,
+      "role": "Frontend Developer",
+      "company": "Tech Solutions Inc.",
+      "period": "2022 - Present",
+      "description": "Developed responsive web applications using React and Redux."
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "degree": "BSc Computer Science",
+      "institution": "University of Technology",
+      "period": "2018 - 2022"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Your Name",
+  "title": "Frontend Developer",
+  "tagline": "Building beautiful, responsive web experiences",
+  "about": {
+    "intro": "I'm a passionate developer with expertise in React and modern JavaScript.",
+    "background": "With a background in computer science and design, I create applications that are both functional and visually appealing.",
+    "unique": "What sets me apart is my attention to detail and commitment to writing clean, maintainable code."
+  },
+  "image": "Martine.jpg"
+}
