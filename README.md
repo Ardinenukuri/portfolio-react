@@ -21,9 +21,8 @@ A professional personal portfolio website built with React, showcasing my skills
 
 ## Design Inspiration
 
-- [Dribbble Portfolio Design](https://dribbble.com/tags/portfolio_website)
-- [Behance Web Portfolio](https://www.behance.net/search/projects?search=web%20portfolio)
-- [Pinterest Portfolio Ideas](https://www.pinterest.com/search/pins/?q=developer%20portfolio)
+- [Hero inspiration](https://dribbble.com/shots/14554357-Developer-Portfolio-Website)
+- [Projects Inspiration](https://brittanychiang.com/)
 
 ## Setup Instructions
 
