@@ -1,9 +1,18 @@
 import React, { useState } from 'react';
 import projectsData from '../data/projects.json';
 import '../assets/styles/Projects.css';
+import logoImage from '../assets/images/logo.webp';
+import budgetImage from '../assets/images/budget-manager.png'
 
 const Projects = () => {
   const [activeFilter, setActiveFilter] = useState('all');
+
+
+  const imageMap = {
+  "Hustle Platform": logoImage,
+  "Personal Budget Manager": budgetImage,
+};
+
 
   const allTechnologies = new Set();
   projectsData.projects.forEach(project => {
@@ -43,7 +52,7 @@ const Projects = () => {
           {filteredProjects.map((project) => (
             <div key={project.id} className="project-card">
               <div className="project-image">
-                <img src={project.image} alt={project.title} />
+                <img src={imageMap[project.title]} alt={project.title} />
               </div>
               <div className="project-content">
                 <h3 className="project-title">{project.title}</h3>

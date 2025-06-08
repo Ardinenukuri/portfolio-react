@@ -34,4 +34,4 @@ A professional personal portfolio website built with React, showcasing my skills
 
 ## Live
 
-- [Live Demo](https://68434f0d17b3df3ceea8e7ad--profound-alfajores-c78fe4.netlify.app/)
+- [Live Demo](https://spiffy-croissant-18f3a8.netlify.app/)
